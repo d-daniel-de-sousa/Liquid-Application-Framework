@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\Liquid.OnAzure\Liquid.OnAzure.csproj" />
     <ProjectReference Include="..\..\src\Liquid.Runtime\Liquid.Runtime.csproj" />
   </ItemGroup>
 
